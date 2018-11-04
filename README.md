@@ -1,7 +1,7 @@
 # sg-utils
 ### _Samuel Gagnon <samuel.gagnon92@gmail.com>_
 
-This is a project to do ... something.
+Miscellaneous Common Lisp functions for my projects.
 
 ## License
 
